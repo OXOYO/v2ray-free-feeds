@@ -20,4 +20,5 @@ https://youlianboshi.netlify.com
 
 https://cdn.jsdelivr.net/gh/v2raydy/v2ray@main/02-22u1.txt
 
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 
