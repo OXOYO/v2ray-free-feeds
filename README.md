@@ -25,3 +25,13 @@ https://raw.fastgit.org/ssrsub/ssr/master/V2Ray
 https://jiang.netlify.app/
 
 https://youlianboshi.netlify.com
+
+
+### Clash源
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+
+https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
+
+https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
